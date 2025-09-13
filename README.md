@@ -24,7 +24,7 @@
 
 ## 📫 Como me encontrar:
 - ✉️ Email: **brenozildox@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/vieirabreno)  
+- 💼 [LinkedIn](www.linkedin.com/in/vieirabreno)  
 - 📂 [Meus Repositórios](https://github.com/Breno-SV)  
 
 ---

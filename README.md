@@ -1,32 +1,32 @@
-# 👋 Olá, eu sou o Breno Vieira  
+# 👋 Olá, eu sou o Breno Vieira
 
-🎓 Estudante de **Engenharia de Software**  
+📚 Estudante de **Engenharia de Software - USF**  
 💻 Técnico em Informática pelo **IFSULDEMINAS**  
-📡 Analista de Help Desk na **R3 Internet**  
+📡 Auxiliar Help Desk na **R3 Internet**
+
+Sou apaixonado por tecnologia, redes e desenvolvimento de software. Gosto de aprender coisas novas, criar soluções práticas e explorar o mundo da programação com curiosidade e propósito.
 
 ---
 
-## 🚀 Tecnologias que estudo e utilizo:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+## 🛠️ Linguagens & Ferramentas
+
+<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" /></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" /></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" /></a>
+<a href="https://www.cisco.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/network.png" alt="Networking" /></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" /></a>
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=Breno-SV&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-SV&layout=compact&theme=tokyonight)
+## 📬 Contatos:
+
+- ✉️ Email: [brenozildox@gmail.com](mailto:brenozildox@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vieirabreno)  
+- 📂 [GitHub](https://github.com/Breno-SV)
 
 ---
 
-## 📫 Como me encontrar:
-- ✉️ Email: **brenozildox@gmail.com**  
-- 💼 [LinkedIn](www.linkedin.com/in/vieirabreno)  
-- 📂 [Meus Repositórios](https://github.com/Breno-SV)  
-
----
-
-⭐ Sempre aprendendo e desenvolvendo novos projetos! 🚀  
+🎯 Sempre buscando aprender, evoluir e transformar ideias em código.

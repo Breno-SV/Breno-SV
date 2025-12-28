@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Breno Vieira
 
-📚 Estudante de **Engenharia de Software - USF**  
+📚 Estudante em **Engenharia de Software - USF**  
 💻 Técnico em Informática pelo **IFSULDEMINAS**  
-📡 Auxiliar Help Desk na **R3 Internet**
+📡 Assistente Help Desk N2 **R3 Internet**
 
 Sou apaixonado por tecnologia, redes e desenvolvimento de software. Gosto de aprender coisas novas, criar soluções práticas e explorar o mundo da programação com curiosidade e propósito.
 

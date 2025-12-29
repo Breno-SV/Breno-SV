@@ -1,32 +1,67 @@
 # 👋 Olá, eu sou o Breno Vieira
 
-📚 Estudante em **Engenharia de Software - USF**  
-💻 Técnico em Informática pelo **IFSULDEMINAS**  
-📡 Assistente Help Desk N2 **R3 Internet**
+🎓 **Estudante de Engenharia de Software** na Universidade São Francisco (USF)  
+🖥️ **Técnico em Informática** pelo Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS)  
+📡 **Analista de Help Desk N2** na R3 Internet  
 
-Sou apaixonado por tecnologia, redes e desenvolvimento de software. Gosto de aprender coisas novas, criar soluções práticas e explorar o mundo da programação com curiosidade e propósito.
+Sou apaixonado por tecnologia, especialmente por **redes de computadores, infraestrutura, programação e desenvolvimento de software**.  
+Gosto de aprender de forma prática, resolver problemas reais e transformar conhecimento técnico em soluções eficientes.
 
----
-
-## 🛠️ Linguagens & Ferramentas
-
-<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" /></a>
-<a href="https://www.cisco.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/network.png" alt="Networking" /></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" /></a>
+Atualmente, busco evoluir constantemente nas áreas de **engenharia de software, suporte técnico avançado e desenvolvimento backend**, sempre com foco em boas práticas e aprendizado contínuo.
 
 ---
 
-## 📬 Contatos:
+## 🚀 Áreas de Interesse
 
-- ✉️ Email: [brenozildox@gmail.com](mailto:brenozildox@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vieirabreno)  
-- 📂 [GitHub](https://github.com/Breno-SV)
+- 💻 Desenvolvimento de Software  
+- 🌐 Redes de Computadores e Infraestrutura  
+- 🔧 Suporte Técnico N1 / N2  
+- 🧠 Lógica de Programação e Estruturas de Dados  
+- ⚙️ Sistemas Operacionais (Linux)  
+- ☁️ Conceitos iniciais de backend e APIs  
 
 ---
 
-🎯 Sempre buscando aprender, evoluir e transformar ideias em código.
+## 🛠️ Tecnologias & Ferramentas
+
+### Linguagens
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+</p>
+
+### Ferramentas & Ambientes
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+</p>
+
+### Redes & Infraestrutura
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/network.png" alt="Redes"/>
+  <img src="https://img.icons8.com/color/48/000000/router.png" alt="Infraestrutura"/>
+</p>
+
+---
+
+## 📌 O que você vai encontrar por aqui
+
+- 📂 Projetos acadêmicos da faculdade  
+- 🧪 Exercícios práticos em C, Python e Java  
+- 🧱 Estudos sobre lógica de programação e estruturas básicas  
+- 🌐 Conteúdos relacionados a redes, suporte técnico e infraestrutura  
+- 📖 Anotações e aprendizados do dia a dia  
+
+---
+
+## 📬 Contato
+
+- ✉️ **Email:** [brenozildox@gmail.com](mailto:brenozildox@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/vieirabreno](https://www.linkedin.com/in/vieirabreno)  
+- 💻 **GitHub:** [github.com/Breno-SV](https://github.com/Breno-SV)
+
+---
+
+🎯 *Sempre aprendendo, evoluindo e transformando curiosidade em conhecimento técnico.*

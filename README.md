@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Breno Vieira
+#  Oi pessoal, seja bem-vindo ao meu perfil!
 
 🎓 **Estudante de Engenharia de Software** na Universidade São Francisco (USF)  
 🖥️ **Técnico em Informática** pelo Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS)  

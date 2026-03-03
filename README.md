@@ -85,15 +85,6 @@ Sou apaixonado por tecnologia e atualmente foco minha carreira em **desenvolvime
 
 ---
 
-## 📊 Stats do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Breno-SV&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-SV&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="180"/>
-</div>
-
----
-
 ## 📂 O que você encontra neste perfil
 
 - 📚 **Projetos acadêmicos** da faculdade e cursos
@@ -130,7 +121,3 @@ Sou apaixonado por tecnologia e atualmente foco minha carreira em **desenvolvime
 ### 🌱 "Sempre aprendendo, evoluindo e transformando curiosidade em conhecimento técnico."
 
 **Disponível para oportunidades de Estágio e Júnior em Desenvolvimento de Software**
-
-⏰ *Última atualização: Março 2026*
-
-</div>

@@ -96,14 +96,6 @@ Sou apaixonado por tecnologia e atualmente foco minha carreira em **desenvolvime
 
 ---
 
-## 🚀 Projetos em Destaque
-
-🔹 **[C-Studies](https://github.com/Breno-SV/C-Studies)** - Implementações de estruturas de dados e algoritmos em C
-
-*Em breve mais projetos serão adicionados!*
-
----
-
 ## 📫 Vamos Conversar?
 
 <div align="center">

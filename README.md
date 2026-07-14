@@ -1,86 +1,63 @@
-# 👋 Olá, seja bem-vindo ao meu perfil!
+# Olá, seja bem-vindo ao meu perfil!
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🎓 Sobre Mim
-
-- 🎓 **Engenharia de Software** — Universidade São Francisco (USF)
-- 🖥️ **Técnico em Informática** — IFSULDEMINAS
-- 📡 **Analista de Help Desk N2** — R3 Internet
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
-## 🎯 Objetivo Profissional
+## Sobre mim
 
-💼 Busco oportunidade como **Estagiário ou Desenvolvedor Júnior**
+* Engenharia de Software — Universidade São Francisco (USF)
+* Técnico em Informática — IFSULDEMINAS
+* Assistente Help Desk Nível 2 — R3 Internet
 
-Sou focado em **backend** e **engenharia de software**, com experiência prática em suporte técnico e infraestrutura — o que me dá uma visão completa do funcionamento de sistemas.
-
-### O que eu ofereço
-- 🚀 Aprendizado rápido e constante
-- 🧠 Resolução de problemas
-- 💪 Experiência com clientes e suporte
-- 📚 Boas práticas de desenvolvimento
-- 🤝 Trabalho em equipe
+Atualmente estou direcionando minha carreira para o desenvolvimento de software, com foco em backend. Minha experiência em suporte técnico e infraestrutura me ajudou a desenvolver uma boa base em resolução de problemas, redes e funcionamento de sistemas, conhecimentos que levo para os projetos que desenvolvo e para os estudos do dia a dia.
 
 ---
 
-## 💻 Áreas de Interesse
+## Objetivo
 
-- 💻 Desenvolvimento de Software
-- ☁️ Backend
-- 🌐 Redes de Computadores
-- ⚙️ Linux
-- 📊 Estrutura de Dados
-- 🔧 Suporte Técnico
+Busco uma oportunidade de **Estágio** ou **Desenvolvedor Júnior**, onde eu possa aprender, contribuir e evoluir como profissional de desenvolvimento de software.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Áreas de Interesse
 
-### Linguagens
-- C
-- Python
-- Java
-- JavaScript
-
-### Ferramentas
-- Git / GitHub
-- VS Code
-- Linux
-- SQL Server
-
-### Infraestrutura
-- Redes
-- Roteadores e suporte
+* Backend
+* Desenvolvimento de Software
+* Redes de Computadores
+* Linux
+* Estrutura de Dados
+* Suporte Técnico
 
 ---
 
-## 📂 O que você vai encontrar aqui
+## Tecnologias e Ferramentas
 
-- 📚 Projetos acadêmicos
-- 🧪 Exercícios práticos
-- 🏗️ Estruturas de dados e algoritmos
-- 🌐 Conteúdos de redes
-- 📖 Anotações de estudo
-- 🔧 Soluções do dia a dia
+* **Linguagens:** C, Python e JavaScript
+* **Ferramentas:** Git, GitHub, Linux, VS Code e SQL Server
+* **Conhecimentos:** Redes de Computadores, Infraestrutura e Suporte Técnico
 
 ---
 
-## 📫 Contato
+## O que você vai encontrar aqui
 
-- 💼 LinkedIn: https://linkedin.com/in/vieirabreno
-- 📧 Email: brenozildox@gmail.com
-- 💻 GitHub: https://github.com/Breno-SV
+* Projetos acadêmicos
+* Projetos pessoais
+* Exercícios e desafios de programação
+* Estruturas de dados e algoritmos
+* Estudos sobre redes e infraestrutura
 
 ---
 
-🌱 *Sempre aprendendo, evoluindo e transformando curiosidade em conhecimento técnico.*
+## Contato
 
-💡 **Disponível para oportunidades de Estágio e Júnior em Desenvolvimento de Software**
+* LinkedIn: https://linkedin.com/in/vieirabreno
+* E-mail: [mailto:brenozildox@gmail.com](mailto:brenozildox@gmail.com)
+* GitHub: https://github.com/Breno-SV
+
+---
+
+*Sempre aprendendo e buscando evoluir como profissionalmente e pessoalmente.*

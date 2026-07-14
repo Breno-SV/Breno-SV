@@ -56,9 +56,9 @@ Busco uma oportunidade de **Estágio** ou **Desenvolvedor Júnior**, onde eu pos
 ## Contato
 
 * LinkedIn: https://linkedin.com/in/vieirabreno
-* E-mail: [mailto:brenozildox@gmail.com](mailto:brenozildox@gmail.com)
+* E-mail: brenozildox@gmail.com
 * GitHub: https://github.com/Breno-SV
 
 ---
 
-*Sempre aprendendo e buscando evoluir como profissionalmente e pessoalmente.*
+*Sempre aprendendo e buscando evoluir como profissional.*

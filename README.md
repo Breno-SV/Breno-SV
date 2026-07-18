@@ -1,4 +1,5 @@
-# Olá, seja bem-vindo ao meu perfil!
+# 👋 Olá! Bem-vindo ao meu GitHub.
+### Aqui você encontrará projetos, estudos e soluções desenvolvidas ao longo da minha jornada na tecnologia.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>

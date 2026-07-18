@@ -46,9 +46,9 @@ Busco uma oportunidade de **Estágio** ou **Desenvolvedor Júnior**, onde eu pos
 
 ## Tecnologias e Ferramentas
 
-* **Linguagens:** C, Python e JavaScript
-* **Ferramentas:** Git, GitHub, Linux, VS Code e SQL Server
-* **Conhecimentos:** Redes de Computadores, Infraestrutura e Suporte Técnico
+* **Linguagens:** C, C++,, C#, Python, PHP, JavaScript e MySql.
+* **Ferramentas:** Git, GitHub, Linux, VS Code e SQL Server.
+* **Conhecimentos:** Desenvolvimento de software, lógica de programação, banco de dados, redes de computadores e infraestrutura. 
 
 ---
 
